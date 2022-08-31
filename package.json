@@ -15,7 +15,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "expo-gl": "^8.0.0",
+    "expo-gl": "^11.0.0",
     "gpu.js": "^2.6.9"
   },
   "repository": {
