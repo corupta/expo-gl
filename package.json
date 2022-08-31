@@ -1,5 +1,5 @@
 {
-  "name": "@gpujs/expo-gl",
+  "name": "gpujs-expo-gl-cr",
   "private": false,
   "files": [
     "index.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gpujs/expo-gl.git"
+    "url": "git+https://github.com/corupta/expo-gl.git"
   },
   "typings": "./index.d.ts"
 }
